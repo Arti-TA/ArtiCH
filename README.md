@@ -21,6 +21,8 @@ Talent Acquisition & Recruitment: Identifying and attracting top talent in emerg
 Behavioral Analysis: Understanding candidate aspirations and aligning them with career opportunities.
 Strategic Planning: Developing recruitment strategies that meet organizational goals and industry trends.
 Tech Industry Trends: Staying updated with the latest technological advancements and their impact on talent acquisition.
+
+
 📈 Recent Projects
 AI Talent Strategy: Developed a comprehensive recruitment plan for AI specialists, resulting in a 30% increase in successful placements.
 DevOps Recruitment Initiative: Implemented a targeted hiring campaign for DevOps engineers, improving time-to-hire by 25%.
