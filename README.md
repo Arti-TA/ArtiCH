@@ -30,6 +30,7 @@ Full Stack Development Hiring: Streamlined the recruitment process for Full Stac
 Feel free to explore my repositories to see some of the projects and initiatives I’ve worked on. If you have any questions or would like to collaborate, don't hesitate to reach out!
 
 LinkedIn: https://www.linkedin.com/in/arti-choudhary-hr2/
+
 Email: Aartichoudhary.gupta@gmail.com
 
 Website: Your Website
